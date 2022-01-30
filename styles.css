@@ -1,0 +1,27 @@
+body{
+    background-color: #072227;
+}
+table {
+  border-collapse: separate;
+  border-spacing: 50px 0;
+}
+
+td {
+  padding: 10px 0;
+}
+
+.container{
+    /* margin: 16px 20px; */
+    margin-top:30px;
+    margin-bottom:30px;
+}
+.rowcss{
+    margin-left: 20px;
+}
+.cardcolor{
+    background-color:#9AD0EC;
+}
+
+.footer{
+    background-color:#F8F9FA;
+}
